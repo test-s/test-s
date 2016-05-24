@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: Test
+description: QA
 url: #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
